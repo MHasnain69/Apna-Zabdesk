@@ -1,0 +1,7 @@
+Monday,No Classes,N/A
+Tuesday,Data Structure Algorithms,8:00am - 11:00am
+Wednesday,No Classes,N/A
+Thursday,Linear Algebra - Software Requirement Engineering,8:00am - 11:00am   11:30am - 2:30pm 
+Friday,Lab: Data Structure Algorithms,6:30pm - 9:30pm 
+Saturday,Human Computer Interaction - Management Principles,11:30pm - 2:30pm   3:00pm - 6:00pm
+Sunday,No Classes,N/A

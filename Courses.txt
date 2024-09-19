@@ -1,0 +1,4 @@
+2380244,Data Structure and Algorithms,Lab: Data Structure and Algorithms,Software Requirement Engineering,Human Computer Interaction,Linear Algebra,Human Resource Management
+2380234,Data Structure and Algorithms,Lab: Data Structure and Algorithms,Software Requirement Engineering,Human Computer Interaction,Linear Algebra,Human Resource Management
+2380276,Data Structure and Algorithms,Lab: Data Structure and Algorithms,Software Requirement Engineering,Human Computer Interaction,Linear Algebra,Psychology
+2380274,Data Structure and Algorithms,Lab: Data Structure and Algorithms,Software Requirement Engineering,Human Computer Interaction,Linear Algebra,Psychology
